@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "ni5aGkCv4D9ECaMEx5dIAvxYOmq4lmsJ4wgMw0GwnuE=",
+  "Source": "VueApp.Server",
+  "BasePath": "_content/VueApp.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\Kerjaan\\Fikri\\2024\\Riset ReactJS dan VueJS\\VueTest\\VueApp\\vueapp.client\\vueapp.client.esproj",
+      "Version": 2,
+      "Source": "vueapp.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
